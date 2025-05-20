@@ -12,7 +12,7 @@ public class StrukturKontrolPemilihan {
         if (grade > 60) {
             System.out.println("YEY NGGAA NGULANG!");
         } else {
-            System.out.println("YAH NGULANG LAGI BRO 1");
+            System.out.println("YAH NGULANG LAGI BRO!");
         }
     }
 }
